@@ -11,8 +11,6 @@
 
         }
 
-        @keyframes slide{0%{background:url(http://www.oopdreams.com/wp-content/uploads/2018/11/code.jpg);background-size: 100% 100%; }
-    25%{background:url("http://www.coperbyte.co.in/ecom/webde/web-design-banner_orig.jpg");background-size: 100% 100%; }
+       @keyframes slide{0%{background:url(http://www.oopdreams.com/wp-content/uploads/2018/11/code.jpg);background-size: 100% 100%; }
+    50%{background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdL9yCjHLA32TKBRzkLMsT8VYD6MXXbZvvNuxevsWi6ZCvTQF8");background-size: 100% 100%; }
 25%{background:url(https://i1.wp.com/comtechies.com/wp-content/uploads/2017/03/mobile-development.jpg?fit=1920%2C1080&ssl=1);background-size: 100% 100%; }}
-       
-       
